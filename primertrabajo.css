@@ -1,0 +1,50 @@
+.Barra {
+    float: left;
+    background-color: rgb(34, 34, 34);
+    font-family: sans-serif;
+    color:white;
+    padding: 10%;
+    margin: 0px;
+    height: 640px;
+    width: 0px;
+}
+ul{
+    text-align: left;
+}
+.Menu {
+    height: 640px;
+}
+.Aqua {
+    background-color:aquamarine;
+    font-family: sans-serif;
+    color:white;
+    text-align: right;
+    padding: 20px;
+}
+.Yellow {
+    background-color:yellow;
+    font-family: sans-serif;
+    color:white;
+    text-align: right;
+    padding: 20px;
+    margin: 0px;
+
+}
+.Orange {
+    background-color:orange;
+    font-family: sans-serif;
+    text-align: right;
+    color:white;
+    margin:auto;
+    padding: 20px;
+}
+.Red {
+    background-color:red;
+    font-family: sans-serif;
+    text-align: right;
+    color:white;
+    padding: 20px;
+}
+.Link {
+    color:white
+}
